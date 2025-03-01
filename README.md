@@ -11,4 +11,4 @@ habibmuhsin/habibmuhsin is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 https://github.com/habibmuhsin/Cjay
-im a developer and continuing learning 
+im a developer and continuing learning python and coding and also programming 
